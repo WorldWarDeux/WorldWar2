@@ -10,9 +10,9 @@ Comment les trajectoires sociales, politiques et professionnelles des individus 
 
 ## ❓ Questions de recherche
 
-* Les origines géographiques influencent-elles l’engagement (zones occupées/libres, colonies, exilés, etc.) ?
-* Y a-t-il des corrélations entre l’origine sociale ou le parcours éducatif et le rôle tenu pendant la guerre (résistant, officier, collaborateur, chef politique, etc.) ?
-* Observe-t-on des relations de filiation intellectuelle ou de pouvoir (ex : anciens élèves d’une même école militaire, proches de de Gaulle, etc.) ?
+* Comment évolue la répartition des personnes impliquées selon leur rôle (général, résistant, politicien, etc.) entre 1935 et 1950 ?
+* Y a-t-il une dépendance entre le pays d’origine et le type de rôle pendant la guerre (ex. militaire vs civil, résistant vs collaborateur) ?
+* Quelles sont les connexions entre les personnes impliquées dans la Seconde Guerre mondiale selon leurs organisations, alliances ou collaborations ?
 
 ## 📋 Informations à collecter
 
