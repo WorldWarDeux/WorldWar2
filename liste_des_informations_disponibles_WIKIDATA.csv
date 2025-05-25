@@ -41,8 +41,8 @@ http://www.wikidata.org/prop/direct/P2163,identifiant FAST,11
 http://www.wikidata.org/prop/direct/P103,langue maternelle,10
 http://www.wikidata.org/prop/direct/P509,cause de la mort,10
 http://www.wikidata.org/prop/direct/P1006,identifiant Bibliothèque royale des Pays-Bas,10
-http://www.wikidata.org/prop/direct/P1207,identifiant NUKAT,10
 http://www.wikidata.org/prop/direct/P1343,décrit par,10
+http://www.wikidata.org/prop/direct/P1207,identifiant NUKAT,10
 http://www.wikidata.org/prop/direct/P26,conjoint ou conjointe,9
 http://www.wikidata.org/prop/direct/P268,identifiant Bibliothèque nationale de France,9
 http://www.wikidata.org/prop/direct/P6262,identifiant Fandom d'un article,9
@@ -102,10 +102,10 @@ http://www.wikidata.org/prop/direct/P1038,membre de la famille,2
 http://www.wikidata.org/prop/direct/P1050,affection médicale,2
 http://www.wikidata.org/prop/direct/P1066,élève de,2
 http://www.wikidata.org/prop/direct/P1142,idéologie politique,2
+http://www.wikidata.org/prop/direct/P1317,actif en/en vie,2
 http://www.wikidata.org/prop/direct/P1233,identifiant ISFDB d'un auteur,2
 http://www.wikidata.org/prop/direct/P1280,identifiant CONOR.SI,2
 http://www.wikidata.org/prop/direct/P1296,identifiant Gran Enciclopèdia Catalana (ancien),2
-http://www.wikidata.org/prop/direct/P1317,actif en/en vie,2
 http://www.wikidata.org/prop/direct/P1695,identifiant Bibliothèque nationale de Pologne (ancien),2
 http://www.wikidata.org/prop/direct/P1971,nombre d'enfants,2
 http://www.wikidata.org/prop/direct/P2019,identifiant AllMovie d'une personne,2
@@ -165,13 +165,13 @@ http://www.wikidata.org/prop/direct/P812,principale spécialité d'étude,1
 http://www.wikidata.org/prop/direct/P906,identifiant SELIBR,1
 http://www.wikidata.org/prop/direct/P935,galerie Commons,1
 http://www.wikidata.org/prop/direct/P949,identifiant Bibliothèque nationale d'Israël,1
+http://www.wikidata.org/prop/direct/P1347,classification militaire des victimes,1
+http://www.wikidata.org/prop/direct/P1375,identifiant Bibliothèque nationale et universitaire de Zagreb,1
 http://www.wikidata.org/prop/direct/P1225,identifiant National Archives and Records Administration,1
 http://www.wikidata.org/prop/direct/P1254,identifiant Slovenska biografija,1
 http://www.wikidata.org/prop/direct/P1258,identifiant Rotten Tomatoes,1
 http://www.wikidata.org/prop/direct/P1266,identifiant AlloCiné nom,1
 http://www.wikidata.org/prop/direct/P1284,identifiant Munzinger,1
-http://www.wikidata.org/prop/direct/P1347,classification militaire des victimes,1
-http://www.wikidata.org/prop/direct/P1375,identifiant Bibliothèque nationale et universitaire de Zagreb,1
 http://www.wikidata.org/prop/direct/P1411,nommé ou nommée pour,1
 http://www.wikidata.org/prop/direct/P1442,image de la tombe,1
 http://www.wikidata.org/prop/direct/P1449,surnom,1
@@ -179,10 +179,10 @@ http://www.wikidata.org/prop/direct/P1472,palette de créateur Commons,1
 http://www.wikidata.org/prop/direct/P1556,identifiant zbMATH d'un auteur,1
 http://www.wikidata.org/prop/direct/P1580,identifiant Université de Barcelone (obsolète),1
 http://www.wikidata.org/prop/direct/P1596,condamnation,1
+http://www.wikidata.org/prop/direct/P1890,identifiant CCAB,1
 http://www.wikidata.org/prop/direct/P1712,identifiant Metacritic,1
 http://www.wikidata.org/prop/direct/P1728,identifiant AllMusic d'un artiste,1
 http://www.wikidata.org/prop/direct/P1741,identifiant Gemeenschappelijke Thesaurus Audiovisuele Archieven,1
-http://www.wikidata.org/prop/direct/P1890,identifiant CCAB,1
 http://www.wikidata.org/prop/direct/P1950,second nom de famille dans un nom espagnol,1
 http://www.wikidata.org/prop/direct/P2048,hauteur,1
 http://www.wikidata.org/prop/direct/P2071,identifiant Mémoire des hommes,1
@@ -255,11 +255,11 @@ http://www.wikidata.org/prop/direct/P8238,identifiant Bibliography of the Histor
 http://www.wikidata.org/prop/direct/P8341,identifiant Dansk Biografisk Leksikon,1
 http://www.wikidata.org/prop/direct/P8603,identifiant Istrapedia,1
 http://www.wikidata.org/prop/direct/P8750,identifiant Unione Romana Biblioteche Scientifiche,1
-http://www.wikidata.org/prop/direct/P8795,identifiant catalogue général Diamond,1
-http://www.wikidata.org/prop/direct/P8849,identifiant CONOR.BG,1
 http://www.wikidata.org/prop/direct/P9037,identifiant Bibliografie dějin Českých zemí (UUID),1
 http://www.wikidata.org/prop/direct/P9044,identifiant GEPRIS Historisch,1
 http://www.wikidata.org/prop/direct/P9058,identifiant personnes décédées (matchID),1
+http://www.wikidata.org/prop/direct/P8795,identifiant catalogue général Diamond,1
+http://www.wikidata.org/prop/direct/P8849,identifiant CONOR.BG,1
 http://www.wikidata.org/prop/direct/P9081,identifiant SEARCH on line catalogue,1
 http://www.wikidata.org/prop/direct/P9097,identifiant American Academy in Rome,1
 http://www.wikidata.org/prop/direct/P9164,identifiant Svenska Institutet i Rom,1
