@@ -30,3 +30,49 @@ ORDER BY DESC(?eff)
 
 
 ```
+
+
+## Question 1 : Évolution temporelle selon le rôle
+
+```sparql
+SELECT ?person ?personLabel ?birthYear ?deathYear ?roleLabel WHERE {
+  ?person wdt:P31 wd:Q5;               # Instance de personne
+          wdt:P1344 wd:Q362;           # A participé à la Seconde Guerre mondiale
+          wdt:P106 ?role.             # A une profession / rôle
+  OPTIONAL { ?person wdt:P569 ?birth. BIND(YEAR(?birth) AS ?birthYear) }
+  OPTIONAL { ?person wdt:P570 ?death. BIND(YEAR(?death) AS ?deathYear) }
+  
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "fr,en". }
+}
+LIMIT 500
+
+```
+
+
+## Question 2 : Analyse bivariée Pays × Rôle (test du Chi-2)
+
+```sparql
+SELECT ?person ?personLabel ?countryLabel ?roleLabel WHERE {
+  ?person wdt:P31 wd:Q5;
+          wdt:P1344 wd:Q362;     # A participé à la SGM
+          wdt:P27 ?country;      # Nationalité
+          wdt:P106 ?role.        # Profession / rôle
+          
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "fr,en". }
+}
+LIMIT 1000
+```
+
+## Question 3 : Analyse de réseau (co-appartenance à une organisation)
+
+```sparql
+SELECT ?person ?personLabel ?orgLabel WHERE {
+  ?person wdt:P31 wd:Q5;
+          wdt:P1344 wd:Q362;
+          wdt:P463 ?org.    # Membre d’une organisation
+          
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "fr,en". }
+}
+LIMIT 1000
+
+``
